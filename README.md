@@ -1,1 +1,1 @@
-# lazy_invoice_template_product_generator
+# lazy_invoice_cloudflare_worker
